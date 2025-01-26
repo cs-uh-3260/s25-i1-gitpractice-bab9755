@@ -11,3 +11,8 @@ I think this artcile in interesting because this is also a trap that I fall into
 ### Proof Reading
 
 Article checked for typos.
+
+
+### Pull request from Vladimir
+
+[This is the link to the pull request Vladimir merged to his branch from my fork](https://github.com/cs-uh-3260/s25-i1-gitpractice-vsharkovski/pull/3)
