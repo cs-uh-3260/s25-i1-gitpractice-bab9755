@@ -16,3 +16,7 @@ Article checked for typos.
 ### Pull request from Vladimir
 
 [This is the link to the pull request Vladimir merged to his branch from my fork](https://github.com/cs-uh-3260/s25-i1-gitpractice-vsharkovski/pull/3)
+
+### Enock Mecheo comment
+
+The idea that “the best kind of learning is learning by doing” aligns with my experiences. Engaging directly in tasks deepens understanding through real-world application. This hands-on approach allows for navigating challenges and learning from mistakes. I also agree with the author that deliberate practice, involving structured efforts and feedback, is crucial for mastering complex skills. 
